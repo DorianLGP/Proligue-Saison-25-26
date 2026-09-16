@@ -174,8 +174,8 @@ ProLigue/
 │   ├── 09_insertion_statistics.sql
 │   │ 
 │   ├── 10_trigger.sql
-│   │ 
-│   └── 11_views.sql
+│   ├── 11_views.sql
+│   └── 11_queries.sql
 │
 ├── 📂 PowerBI/
 │   └── ProLigue.pbix
