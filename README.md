@@ -1,10 +1,10 @@
 # ProLigue Data Analysis — SQL & Power BI
 
-🇫🇷 Français | 🇬🇧 English
+Français | English
 
 ---
 
-## 🇫🇷 Français
+## Français
 
 ### Présentation
 
@@ -40,7 +40,7 @@ La base de données est composée de **8 tables normalisées**, permettant de re
 
 Un **trigger SQL** permet notamment de mettre automatiquement à jour le classement lors de l'ajout d'un nouveau match.
 
-### 📊 Power BI
+### Power BI
 
 Les données sont ensuite exploitées dans Power BI à travers plusieurs pages :
 
@@ -51,7 +51,7 @@ Les données sont ensuite exploitées dans Power BI à travers plusieurs pages :
 - **Classement** - classement du championnat
 - **Statistiques** - performances individuelles
 
-### 🛠️ Technologies
+### Technologies
 
 - SQL
 - Oracle Database
@@ -60,7 +60,7 @@ Les données sont ensuite exploitées dans Power BI à travers plusieurs pages :
 - Data Modeling
 - Data Visualization
 
-### 🚀 Compétences mises en œuvre
+### Compétences mises en œuvre
 
 **Data Engineering**
 - Modélisation relationnelle
@@ -78,9 +78,9 @@ Les données sont ensuite exploitées dans Power BI à travers plusieurs pages :
 
 ---
 
-# 🇬🇧 English
+# English
 
-### 📌 Overview
+### Overview
 
 This project focuses on building a data platform around **ProLigue**, the second division of French handball.
 
@@ -90,7 +90,7 @@ The project covers the complete workflow, from **database design and data modeli
 
 The data used in this project is collected from the **official website of the French Handball League (LNH)**.
 
-### 🎯 Objectives
+### Objectives
 
 - Structure ProLigue data in a relational database
 - Manage clubs, players, matches, venues, seasons and statistics
@@ -98,7 +98,7 @@ The data used in this project is collected from the **official website of the Fr
 - Analyze individual and team performances
 - Build interactive Power BI dashboards
 
-### 🗄️ Database
+### Database
 
 The database consists of **8 normalized tables** representing the main entities of the championship:
 
@@ -113,7 +113,7 @@ The database consists of **8 normalized tables** representing the main entities 
 
 A **SQL trigger** automatically updates the league standings when a new match is inserted.
 
-### 📊 Power BI
+### Power BI
 
 The data is explored through several Power BI dashboard pages:
 
@@ -124,7 +124,7 @@ The data is explored through several Power BI dashboard pages:
 - **Standings** — league table
 - **Statistics** — individual performances
 
-### 🛠️ Technologies
+### Technologies
 
 - SQL
 - Oracle Database
@@ -133,7 +133,7 @@ The data is explored through several Power BI dashboard pages:
 - Data Modeling
 - Data Visualization
 
-### 🚀 Skills Demonstrated
+### Skills Demonstrated
 
 **Data Engineering**
 - Relational database design
@@ -151,7 +151,7 @@ The data is explored through several Power BI dashboard pages:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 ProLigue/
