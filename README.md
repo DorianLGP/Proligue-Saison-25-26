@@ -157,7 +157,7 @@ The data is explored through several Power BI dashboard pages:
 ProLigue/
 │
 ├── 📂 Documentation/
-│   ├── specifications.pdf
+│   ├── Specifications.pdf
 │   ├── MCD Proligue.jpg
 │   └── MLD Proligue.pdf
 │
